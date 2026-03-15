@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-14",
+  "groups": [
+    {
+      "theme": "Perks that activate when a generator is completed",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": [
+        "Dark Sense",
+        "Eyes of Belmont",
+        "Detective's Hunch",
+        "Wiretap"
+      ]
+    },
+    {
+      "theme": "Perks related to aura reading abilities",
+      "color": "green",
+      "difficulty": 2,
+      "perks": [
+        "Plunderer's Instinct",
+        "Corrective Action",
+        "Wicked",
+        "Windows of Opportunity"
+      ]
+    },
+    {
+      "theme": "Perks that provide a speed boost",
+      "color": "blue",
+      "difficulty": 3,
+      "perks": [
+        "Bada Bada Boom",
+        "Dance With Me",
+        "Fixated",
+        "Overcome"
+      ]
+    },
+    {
+      "theme": "Perks associated with the Broken status effect",
+      "color": "purple",
+      "difficulty": 4,
+      "perks": [
+        "Apocalyptic Ingenuity",
+        "Breakdown",
+        "No Mither",
+        "For the People"
+      ]
+    }
+  ]
+}

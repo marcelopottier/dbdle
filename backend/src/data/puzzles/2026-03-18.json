@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-18",
+  "groups": [
+    {
+      "theme": "Perks that activate when injured",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": [
+        "Made for This",
+        "Deadline",
+        "Lucky Break",
+        "This Is Not Happening"
+      ]
+    },
+    {
+      "theme": "Perks that involve lockers",
+      "color": "green",
+      "difficulty": 2,
+      "perks": [
+        "Head On",
+        "Red Herring",
+        "Lucky Star",
+        "Quick & Quiet"
+      ]
+    },
+    {
+      "theme": "Perks that involve auras and generators",
+      "color": "blue",
+      "difficulty": 3,
+      "perks": [
+        "Visionary",
+        "Fogwise",
+        "Poised",
+        "Deja Vu"
+      ]
+    },
+    {
+      "theme": "Perks with the mechanic 'noise'",
+      "color": "purple",
+      "difficulty": 4,
+      "perks": [
+        "Diversion",
+        "Technician",
+        "Deception",
+        "Flashbang"
+      ]
+    }
+  ]
+}

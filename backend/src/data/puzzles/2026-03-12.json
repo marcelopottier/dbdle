@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-12",
+  "groups": [
+    {
+      "theme": "Causes the Exhausted status effect",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": ["Dead Hard", "Sprint Burst", "Lithe", "Balanced Landing"]
+    },
+    {
+      "theme": "Survivor perks that reveal the Killer's aura",
+      "color": "green",
+      "difficulty": 2,
+      "perks": ["Spine Chill", "Premonition", "Object of Obsession", "Kindred"]
+    },
+    {
+      "theme": "Hex perks",
+      "color": "blue",
+      "difficulty": 2,
+      "perks": ["Hex: Ruin", "Hex: Devour Hope", "Hex: No One Escapes Death", "Hex: Undying"]
+    },
+    {
+      "theme": "Perks that activate when a survivor is rescued from a hook",
+      "color": "purple",
+      "difficulty": 3,
+      "perks": ["Borrowed Time", "Decisive Strike", "Off the Record", "Reassurance"]
+    }
+  ]
+}

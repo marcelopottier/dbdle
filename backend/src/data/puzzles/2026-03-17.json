@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-17",
+  "groups": [
+    {
+      "theme": "Perks that involve chests",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": [
+        "Change of Plan",
+        "Exultation",
+        "Hardened",
+        "Moment of Glory"
+      ]
+    },
+    {
+      "theme": "Perks that benefit when stunned or blinding the killer",
+      "color": "green",
+      "difficulty": 2,
+      "perks": [
+        "Champion of Light",
+        "Smash Hit",
+        "Parental Guidance",
+        "Teamwork: Throw Down"
+      ]
+    },
+    {
+      "theme": "Perks that activate or gain bonuses based on tokens or stacks",
+      "color": "blue",
+      "difficulty": 3,
+      "perks": [
+        "Distortion",
+        "Road Life",
+        "Specialist",
+        "Up the Ante"
+      ]
+    },
+    {
+      "theme": "Perks that mention healing another or being healed",
+      "color": "purple",
+      "difficulty": 4,
+      "perks": [
+        "Conviction",
+        "Flip-Flop",
+        "Leader",
+        "Teamwork: Collective Stealth"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-13",
+  "groups": [
+    {
+      "theme": "Perks with 'aura' mechanic",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": [
+        "Alert",
+        "Any Means Necessary",
+        "Bond",
+        "Blast Mine"
+      ]
+    },
+    {
+      "theme": "Perks that boost healing actions",
+      "color": "green",
+      "difficulty": 2,
+      "perks": [
+        "Autodidact",
+        "Botany Knowledge",
+        "Desperate Measures",
+        "Solidarity"
+      ]
+    },
+    {
+      "theme": "Perks activated during endgame",
+      "color": "blue",
+      "difficulty": 3,
+      "perks": [
+        "Adrenaline",
+        "Hope",
+        "No One Left Behind",
+        "Wake Up!"
+      ]
+    },
+    {
+      "theme": "Perks involving chests",
+      "color": "purple",
+      "difficulty": 4,
+      "perks": [
+        "Ace in the Hole",
+        "Appraisal",
+        "Built to Last",
+        "Pharmacy"
+      ]
+    }
+  ]
+}

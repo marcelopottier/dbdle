@@ -1,0 +1,2370 @@
+{
+  "generatedAt": "2026-03-12T23:06:15.539Z",
+  "total": 167,
+  "totalKiller": 0,
+  "totalSurvivor": 167,
+  "needsReview": 12,
+  "perks": [
+    {
+      "id": "Ace_In_The_Hole",
+      "name": "Ace in the Hole",
+      "description": "Lady Luck always seems to be throwing something good your way. When retrieving an item from a chest, there is a {0}% chance that a Visceral (or lower) add-on will be attached to it. {1}% chance of finding a second add-on of Uncommon rarity (or lower). When escaping, keep any add-ons your item has.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Adrenaline",
+      "name": "Adrenaline",
+      "description": "You are fuelled by unexpected energy when on the verge of escape. This perk activates when the exit gates are powered. Instantly heal one health state if you are injured or in the dying state and gain {0}% Haste for {1} seconds. Adrenaline ignores the Exhausted status effect. Causes the Exhausted status effect for {2} seconds. Haste increases Survivor movement speed. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "heal",
+        "speed",
+        "endgame"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Aftercare",
+      "name": "Aftercare",
+      "description": "Unlocks potential in one's aura reading ability. You see the aura of every Survivor that: You rescue from a hook, or rescues you from a hook;You complete a healing action on, or completes a healing action on you. They also see your aura. This occurs for up to {0} Survivors. All effects of Aftercare are reset when you are hooked by The Killer.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "hook",
+        "on_hook",
+        "on_rescue"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Alert",
+      "name": "Alert",
+      "description": "Your acute senses are on high alert. When the Killer performs a break action, the Killer is revealed to you for {0} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "AnyMeansNecessary",
+      "name": "Any Means Necessary",
+      "description": "You stand up for yourself, using whatever’s on hand to gain an advantage. You see the auras of dropped Pallets.Press and hold the Active Ability Button 1 for {0} seconds while standing beside a dropped pallet to reset it to its upright position.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S47P01",
+      "name": "Apocalyptic Ingenuity",
+      "description": "You salvage what little there is to defend your team. After unlocking or rummaging through {0} chests, press Ability Button 1 for {1} seconds next to a broken pallet to build a fragile pallet. You see the auras of broken pallets within {2} meters. Fragile pallets are destroyed when dropped. “Without the fences, this place is worthless.” —Rick Grimes",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "broken",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S24P01",
+      "name": "Appraisal",
+      "description": "You have a careful eye that notices what many overlook. Start the trial with {0} tokens. When a chest has already been opened, consume a token to rummage through it for an item. Rummaging can only be performed twice per chest. You rummage through chests {1}% faster.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Autodidact",
+      "name": "Autodidact",
+      "description": "You start the trial with a -{1}% progress penalty for Skill Checks to heal other Survivors. For every successful Skill Check while healing another Survivor, you receive a token up to a maximum of {0} tokens. Each token grants you a +{2}% progress bonus. Great Skill Checks cannot be performed while using Autodidact.Autodidact is not active when using a Med-kit to heal.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Babysitter",
+      "name": "Babysitter",
+      "description": "While you have a reputation for being self-centered, you risk it all to help those in need. When you unhook a Survivor, they won’t leave scratch marks or pools of blood, and they gain a {0}% Haste status effect for {1} seconds. You see the Killer's aura for {2} seconds. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "speed",
+        "on_unhook"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S36P01",
+      "name": "Background Player",
+      "description": "You're not usually the center of attention. In some cases, this can be a good thing. When the Killer picks up another Survivor, Background Player activates for {0} seconds. When you start running, you gain {1}% Haste for {2} seconds. This perk cannot be used while Exhausted. This perk causes the Exhausted status effect for {3} seconds. Exhausted prevents Survivors from activating exhausting perks. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S50P01",
+      "name": "Bada Bada Boom",
+      "description": "You may not be a fighter, but you have clever ways of striking back. After completing {0}% worth of repairs, press Ability button 1 next to a window to trap it for {1} seconds. The trap triggers when the Killer performs a vault on the window, inflicting them with {2}% Hindered for {3} seconds. Hindered reduces Killer movement speed. \"Never tell me the odds.\" —Dustin Henderson",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "hindered",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Balanced_Landing",
+      "name": "Balanced Landing",
+      "description": "Your agility is incomparable. After falling from a height, cat-like reflexes reduce your stagger duration from falling by {0}% and reduce the volume of grunts from falling by 100%. You gain {1}% Haste for a maximum of {2} seconds. Causes the Exhausted status effect for {3} seconds. Balanced Landing cannot be used while Exhausted. Haste increases Survivor movement speed. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S42P02",
+      "name": "Bardic Inspiration",
+      "description": "It's time to give your audience a show. Will you bring the house down or will you choke? Press and hold the Ability button 1 while standing and motionless to enter the performance interaction that lasts up to {0} seconds and empowers Survivors within {1} meters. Roll a d20. This effect lasts for {2} seconds if the performance is completed. 1 | You scream, but nothing happens2-10 | Skill Checks give +1% progress11-19 | Skill Checks give +2% progress20 | Skill Checks give +3% progress When the ability is canceled or the performance completes, it goes on cooldown for {3} seconds. \"Listen closely! I'm about to save your life!\" - Aestri",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "S33P01",
+      "name": "Better Than New",
+      "description": "You are an expert in combat medicine. Patients leave your care reinvigorated. Upon completing a healing action on another Survivor, the targeted Survivor gets a {0}% speed boost to healing, opening chests, cleansing and blessing Totems. Survivors keep the bonus until they lose a health state.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "heal",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "BetterTogether",
+      "name": "Better Together",
+      "description": "You seek justice and uncover the truth no matter what obstacle stands in your way. The aura of the generator you are currently repairing is revealed to all other Survivors. If The Killer downs a Survivor while you are repairing a generator, you see the aura of all other Survivors for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S27P01",
+      "name": "Bite the Bullet",
+      "description": "Pain hurts you as much as anyone, but you'd prefer others don't know that. When healing, you and the Survivor you're healing make no noise, including grunts of pain. There is no noise notification on failed healing Skill Checks and healing regresses by only {0}%.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "noise",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S26P03",
+      "name": "Blast Mine",
+      "description": "When direct combat isn't an option, you still find ways to strike back. Blast Mine activates after completing a total of {0}% worth of repair progress on generators. When standing next to a generator, press the Active Ability Button 2 to install a Blast Mine which stays active for {2} seconds. Affected generators will be revealed to all Survivors by a yellow aura. Only one Blast Mine can be active on a generator. When the Killer damages the generator, the Blast Mine explodes, stunning them and blinding anyone nearby.Blast Mine deactivates when the generator is damaged by the Killer or when the timer expires.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "BloodPact",
+      "name": "Blood Pact",
+      "description": "It’s as if a latent part of yourself has awakened. You feel like you can reach out beyond yourself for assistance. When you or the Obsession are injured, you both see each other's auras. After completing a healing action on the Obsession, or having the Obsession complete a healing action on you, you both gain a {1}% Haste status effect until no longer within 16 meters of each other. Reduces the odds of being the Obsession. If you are the Obsession, this perk deactivates. The Killer can only be obsessed with one Survivor at a time. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "speed",
+        "passive",
+        "obsession"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S36P02",
+      "name": "Blood Rush",
+      "description": "Your mind and body are honed for great feats, allowing you to push through with extra effort when necessary. After being unhooked, Blood Rush activates for the next {0} seconds. While suffering from the Exhausted status effect, press the Active Ability Button 1 to recover from Exhausted instantly. This perk deactivates when it is used or when performing a Conspicuous Action. Blood Rush is disabled once the Exit Gates are powered. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "endgame",
+        "on_unhook"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "BoilOver",
+      "name": "Boil Over",
+      "description": "You are a battler and do everything to escape a foe's grasp. Your struggling effects on The Killer are increased by {0}%. You obscure The Killer's ability to see hook auras within {1} meters. You gain {2}% of current wiggling progress when the Killer drops from great heights.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Bond",
+      "name": "Bond",
+      "description": "Unlocks potential in one's aura reading ability. Allies' auras are revealed to you when they are within a {0} meter range.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S28P02",
+      "name": "Boon: Circle of Healing",
+      "description": "A boon that offers comfort amidst the terror. Press and hold the Ability button 1 near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a {0} meter range. Any Survivors within the Boon Totem's range gain a {1}% healing speed bonus to healing others. Med-kits give no bonus to healing in the Boon Totem's range. Injured Survivors have their auras revealed to all other Survivors when inside the Boon Totem’s range. You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "speed",
+        "totem",
+        "passive",
+        "hex"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S30P03",
+      "name": "Boon: Dark Theory",
+      "description": "Your obsessive study of the paranormal has given you unprecedented knowledge of other realms and planes of existence. Press and hold the Ability button near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a {0} meter range. Any Survivors within the Boon Totem’s range gain {1}% Haste. This effect lingers for {2} seconds after leaving the Boon Totem's range. You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "speed",
+        "totem",
+        "passive",
+        "hex"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S29P03",
+      "name": "Boon: Exponential",
+      "description": "When it seems like your number is up, you consider ways to recalculate the odds. Press and hold the Ability button near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a {0} meter range. All Survivors within the Boon Totem's range recover {1}% faster and can completely recover from the dying state. You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "totem",
+        "passive",
+        "hex"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S40P02",
+      "name": "Boon: Illumination",
+      "description": "Your keen insight is something best shared with others. Press and hold the Ability Button 1 near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a {0} meter range. Survivors inside your Boon Totem’s range see the aura of all chests and all generators in blue. If you have a lit Boon Totem, you cleanse or bless Totems {1}% faster. You can only bless one Totem at a time. All equipped Boon perks are active on your Boon Totem. \"A shift in reality. Heavy with hidden meanings\" – Return",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chest",
+        "generator",
+        "totem",
+        "passive",
+        "hex"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S28P03",
+      "name": "Boon: Shadow Step",
+      "description": "A boon that conceals the truth. Press and hold the Ability button near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a {0} meter range. Any Survivors within the Boon Totem’s range will have their scratch marks and auras hidden to the Killer. This effect lingers for {1} seconds after leaving the Boon Totem’s range. You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "totem",
+        "passive",
+        "hex"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "BorrowedTime",
+      "name": "Borrowed Time",
+      "description": "You are fueled by unexpected energy when saving an ally from a hook. Survivors you unhook: Keep their Endurance status effect for an extra {0} seconds.Retain their Haste for an extra 10 seconds. Endurance prevents a Survivor from being downed, inflicting Deep Wound instead. Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "hook",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Botany_Knowledge",
+      "name": "Botany Knowledge",
+      "description": "You transform plants found around the campfire into tinctures that slow down bleeding. Healing speed is increased by {0}%.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Breakdown",
+      "name": "Breakdown",
+      "description": "Any time you are removed from a hook (escaped or saved), the hook breaks and the Killer's aura is shown to you for {0} seconds. A hook broken by this perk takes 180 seconds to respawn.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "broken",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Breakout",
+      "name": "Breakout",
+      "description": "You kick into high gear when someone’s in trouble, inspiring them to overcome any obstacle. When within {0} meters of a carried Survivor, you gain {1}% Haste status effect. The carried Survivor’s wiggle speed is increased by {2}%. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "BuckleUp",
+      "name": "Buckle Up",
+      "description": "Unlocks potential in one's aura reading ability. While healing a Survivor in the dying state: You both can see the Killer's aura. When completing healing a Survivor from the dying state to injured: The healed Survivor gains {0}% Haste for {1} seconds and leaves no scratch marks during this time. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "BuiltToLast",
+      "name": "Built to Last",
+      "description": "You know how to get the most out of your tools. After hiding inside a locker for {0} seconds with a depleted item in hand, {1}% of its charges are refilled. Each use of Built to Last reduces the amounts of charges refilled by {2}%.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Calm_Spirit",
+      "name": "Calm Spirit",
+      "description": "Animals seem to trust you as they often stay calm in your presence. Reduces chances of alerting woodland creatures by 100%.Allows you to overcome the urge to scream.Allows you to open chests and cleanse/bless Totems silently, but at {0}% reduced speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Camaraderie",
+      "name": "Camaraderie",
+      "description": "Life has taught you the importance of friendship which has given you strength. While you are on the hook in the struggle phase, Camaraderie activates. If another Survivor is within {0} meters of you while Camaraderie is activated, the hook timer is paused for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S40P01",
+      "name": "Champion of Light",
+      "description": "The glow of the flashlight looks a little different, feels a little warmer. When you are shining a Flashlight, you gain {0}% Haste. When you successfully blind the Killer, they also gain {1}% Hindered for {2} seconds. Then, this perk goes on cooldown for {3} seconds. Haste increases Survivor movement speed. Hindered reduces Killer movement speed. “I squeezed the flashlight like my life depended on it, willing it to stop coming any closer.” – Departure",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "blind",
+        "hindered",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S50P02",
+      "name": "Change of Plan",
+      "description": "Rather than give in to danger, you recalculate and adjust your strategy. You start with {0} tokens. While inside a locker and holding a non-event Toolbox, press Ability button 2 to spend 1 token and transform your Toolbox into a Med-kit of the same rarity with a random add-on of the same rarity. The new Med-kit has {1}% of its charges. “Oh my god, oh my god, oh my god, oh my god.” —Dustin Henderson",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S39P02",
+      "name": "Chemical Trap",
+      "description": "In the Fog, an officer must adapt to the materials at hand. Chemical Trap activates after completing a total of {0}% worth of progress on generators. While standing next to a dropped pallet, press the Active Ability Button 2 to install a Trap, which stays active for {1} seconds. Affected pallets will be revealed to all Survivors by a yellow aura. Only one Chemical Trap can be active on a pallet. When the Killer performs the break action on the pallet, the Chemical Trap explodes, and they gain {2}% Hindered for {3} seconds. Hindered reduces Killer movement speed. “How do we kill it, Ash?” –Ellen Ripley",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "hindered",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S28P01",
+      "name": "Clairvoyance",
+      "description": "There is an intrinsic energy in you that sees beyond your vision. Clairvoyance activates whenever you cleanse or bless a Totem. When empty-handed, hold the Use Item Button to unlock your full aura-reading potential. For up to {0} seconds, you see the auras of exit gate switches, generators, hooks, chests and the Hatch within a {1} meter range.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chest",
+        "generator",
+        "hook",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S45P02",
+      "name": "Clean Break",
+      "description": "At the end of the day, everyone has to look out for themselves. After you finish healing another Survivor, while being healed by another Survivor, press the Ability button 1 to gain the Broken status effect. After {0} seconds, you become healthy. This perk does not activate if you are already Broken. The effect is canceled if you go into the dying state. Broken prevents Survivors from being healed. \"I'll be fine! Don't stick your neck out for me.\" - Taurie Cain",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S47P02",
+      "name": "Come and Get Me!",
+      "description": "You’ll risk your life to save others. After unhooking a Survivor, while crouched and idle, press Ability button 1 to make injured and dying Survivors within {0} meters leave no scratch marks or pools of blood or make grunts of pain for {1} seconds. You scream and the Killer sees your aura for {2} seconds. “We're the ones who live.” —Rick Grimes",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "on_unhook"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S48P01",
+      "name": "Conviction",
+      "description": "Sometimes one last push means the difference between death and survival. After you have healed {0} other Survivor, while downed with at least {1}% recovery progress, press the Ability button 2 to recover instantly. You gain Broken, then are downed again after {2} seconds. Broken prevents Survivors from being healed. \"It's enough to keep going. Keep trying. Keep fighting. Keep dreaming.\" - Michonne Grimes",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S29P02",
+      "name": "Corrective Action",
+      "description": "You quickly analyze problems and correct other's work when they make a mistake. You start the trial with {0} token(s) and gain a token, up to a maximum of {1}, for every great Skill Check. When another Survivor fails a Normal Skill Check, 1 token is consumed and their failed Skill Check becomes a good Skill Check. Additionally, their aura is revealed to you for {2} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S26P01",
+      "name": "Counterforce",
+      "description": "You know how to withstand an enemy stronger than you, and it starts with hunting down and knocking out their support. You cleanse Totems 25% faster. After cleansing a Totem, you see the aura of the furthest Totem from you for {0} seconds and you gain an additional {1}% stackable speed bonus to cleansing Totems for the remainder of the trial.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S35P01",
+      "name": "Cut Loose",
+      "description": "You get in enough trouble. You know how to get out of it. After performing a rushed vault in a chase, this perk activates. While this perk is active, your rushed vaults are silent for up to {0} seconds and successfully performing a rushed vault during that time resets the timer. This perk goes on cooldown for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chase",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Dance_with_me",
+      "name": "Dance With Me",
+      "description": "When performing a rushed vault or leaving a locker in a sprint, you leave no scratch marks for {0} seconds. Dance With Me has a cooldown of {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Dark_Sense",
+      "name": "Dark Sense",
+      "description": "Unlocks potential in one's aura reading ability. Each time a generator is completed, Dark Sense activates. While Dark Sense is active, the Killer entering a 24-meter radius around you reveals their aura for {0} seconds. Once the aura's duration expires, Dark Sense deactivates.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "DeadHard",
+      "name": "Dead Hard",
+      "description": "You can take a beating. Dead hard activates after you are unhooked or unhook yourself. When injured, tap into your adrenaline bank to avoid incoming damage. Press the Active Ability Button 1 while running to gain the Endurance status effect for the next 0.5 seconds. Causes the Exhausted status effect for {0} seconds.Dead Hard then deactivates. Endurance prevents a Survivor from being downed, inflicting Deep Wound instead. Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out. Exhausted prevents survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "heal",
+        "endgame"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S40P03",
+      "name": "Deadline",
+      "description": "Desperation creeps in, and you push yourself to work harder. This perk activates when you are injured. Skill Checks appear {0}% more frequently when repairing or healing and appear in random places. The penalty for missing skill checks is reduced by {1}%. “The night had been one desperate situation after another.” – Departure",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S24P02",
+      "name": "Deception",
+      "description": "Your adventurous lifestyle requires moments of crafty misdirection. Interacting with a locker while sprinting will trigger a loud noise notification at your location and cause you to leave no scratch marks for {0} seconds. You no longer enter lockers while sprinting and while this perk is active. Deception can only be triggered once every {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "noise",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "DecisiveStrike",
+      "name": "Decisive Strike",
+      "description": "Stab at your aggressor in an attempt to escape. After being unhooked or unhooking yourself, Decisive Strike activates for {0} seconds. While active, complete a Skill Check when grabbed by the Killer to escape, stunning them for {1} seconds.Succeeding or failing the Skill Check disables Decisive Strike.You become the Obsession after stunning the Killer.The perk and its effects are disabled if the exit gates are powered. Increases your chance to be the Obsession. Taking any Conspicuous Action will deactivate Decisive Strike. The Killer can only be obsessed with one Survivor at a time.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "endgame",
+        "on_unhook",
+        "obsession"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "Deja_Vu",
+      "name": "Deja Vu",
+      "description": "The auras of 3 generators which are in close proximity to one another are revealed to you. Gain a {0}% repair speed bonus on the revealed generators.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Deliverance",
+      "name": "Deliverance",
+      "description": "After performing a safe hook rescue on another Survivor, Deliverance activates. You now have a 100% chance of unhooking yourself during the escape attempt. A successful Deliverance from the hook triggers the Broken status effect for {0} seconds. Broken prevents Survivors from being healed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "hook",
+        "on_rescue"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "DesperateMeasures",
+      "name": "Desperate Measures",
+      "description": "You refuse to fail, even during your darkest hour. For each injured, hooked, or dying Survivor, increase the speed of your healing and unhook actions by {0}%.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "DetectivesHunch",
+      "name": "Detective's Hunch",
+      "description": "When a generator is completed, the auras of Generators, Chests and Totems within {0} meters are revealed to you for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chest",
+        "generator",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Distortion",
+      "name": "Distortion",
+      "description": "When your aura would be shown to the Killer, the perk activates. Distortion starts with {0} token. When your aura would be read, Distortion activates and consumes a token. For the next {1} seconds, your aura and scratch marks will not be shown to The Killer. For each {2} seconds spent in chase, regain 1 token, up to {3}. This effect cannot trigger while in the dying state.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chase",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Diversion",
+      "name": "Diversion",
+      "description": "Being within the Killer's Terror Radius while not in a chase for {0} seconds activates Diversion. Once Diversion is activated, press the Active Ability Button 1 while crouched and motionless to throw a pebble, which creates a distraction for The Killer at a distance of 20 meters. The perk timer resets once the ability has been activated. The distraction consists of: A loud noise notificationScratch marks",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chase",
+        "noise",
+        "oblivious",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S46P01",
+      "name": "Do No Harm",
+      "description": "Helping those in need comes easily, no matter how dire things get. When you heal another Survivor, for each Hook State they have, heal {0}% faster and gain {1}% progress for succeeding great Skill Checks. \"Look at me. My name's Orela, and I'm gonna make sure you're all right.\" - Orela Rose",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "hook",
+        "on_heal",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S38P01",
+      "name": "Dramaturgy",
+      "description": "When people bring you on to their project, they do so because of the unexpected magic you bring to your performance. Dramaturgy activates while you are healthy. While running, press the active ability button 2 to run with knees high for 0.5 seconds and then gain {0}% Haste for {1} seconds, followed by an unknown effect. Become Exposed for {2} seconds;Gain {3}% Haste for {4} seconds;Scream, but nothing happens;Gain a random rare item, with random add-ons, and drop any held item.The same effect cannot happen twice in a row. Dramaturgy causes Exhausted for {5} seconds. Can't be used while Exhausted. Exposed Survivors will be downed by basic attacks even if uninjured. Haste increases Survivor movement speed. Exhausted prevents Survivors from activating other perks that cause Exhausted.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "exhausted",
+        "exposed",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S46P02",
+      "name": "Duty of Care",
+      "description": "You live by a code of conduct every day of your life, and are all the better for it. When you take a protection hit while healthy, all other Survivors within {0} meters gain {1}% Haste for {2} seconds. Haste increases Survivor movement speed. \"Don't worry about me. I've got a knack for bouncing back.\" - Orela Rose",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S30P02",
+      "name": "Empathic Connection",
+      "description": "Your presence psychically projects itself to those in danger. Whenever another Survivor is injured, they can see your aura. You heal other Survivors {0}% fast",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Empathy",
+      "name": "Empathy",
+      "description": "Injured Survivors are revealed to you when within a {0} meter range.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S51P01",
+      "name": "Extrasensory Perception",
+      "description": "By slowing down and focusing, you can sense both ally and enemy. Crouch for {0} seconds to see the auras of Survivors, Killers, and a variety of objects. These are revealed in an expanding {1} meter radius. You gain Elusive and Oblivious. When you stop crouching, or after {2} seconds, all effects of this perk end and it enters a {3}-second cooldown. Elusive Survivors' auras cannot be seen, they leave no scratch marks, pools of blood or make grunts of pain. Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius. \"What is friend?\" —Eleven",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "noise",
+        "oblivious",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S44P02",
+      "name": "Exultation",
+      "description": "Fortune favors the bold, even in the darkest corners of existence. Stunning the Killer with a pallet upgrades your held item rarity to the next tier, then recharges {0}% of the item's maximum charges. This perk has a {1}-second cooldown. \"You will not take me this day!\" - Trevor",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S44P01",
+      "name": "Eyes of Belmont",
+      "description": "A history of vampire-hunting imbues the bloodline with certain abilities. When a generator is completed, the aura of the Killer is revealed to you for {0} seconds. Whenever a Killer's aura is revealed for a specified amount of time, that time is increased by {1} seconds. \"Ha! Your secret has been revealed!\" - Trevor",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S25P01",
+      "name": "Fast Track",
+      "description": "Sometimes the sacrifice of others is necessary to get ahead. Whenever another Survivor is hooked, you gain {0} tokens. You consume all tokens after a great Skill Check on a generator. Each token consumed grants a {1}% bonus progression for great Skill Checks when repairing generators.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S43P01",
+      "name": "Finesse",
+      "description": "The threat of danger can motivate any creature to strengthen its resolve. This perk activates when you are healthy. Your fast vaults are {0}% faster. This perk goes on cooldown for {1} seconds after performing a fast vault. \"Just need to push myself a bit further.\" - Lara Croft",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "Fixated",
+      "name": "Fixated",
+      "description": "When you have a goal in mind, there’s no turning back: better to ask forgiveness than permission. You can see your own scratch marks at all times. While walking, you have {0}% Haste. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S27P02",
+      "name": "Flashbang",
+      "description": "You've adapted to a world in chaos and making what you can from the debris. After completing {0}% progress on any generator, Flashbang activates. Enter a locker and press the Active Ability button 1 to craft a flash grenade. 1 charge.Detonates with a loud bang and flashing light.Creates a noise notification.Can be used to distract or blind. You leave the flash grenade behind when escaping the trial.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "blind",
+        "generator",
+        "noise",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "FlipFlop",
+      "name": "Flip-Flop",
+      "description": "You have an uncanny ability to escape the inevitable. While in dying state, {0}% of your recovery progression is converted into wiggle progression when you are picked up by The Killer, up to a maximum of {1}% total wiggle progression.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S34P02",
+      "name": "Fogwise",
+      "description": "In your countless years in the fog, you've seen it all, and when you're focused, you can remember most of it, too. Hitting a great Skill Check while repairing a generator reveals the Killer's aura to you for {0} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "ForThePeople",
+      "name": "For the People",
+      "description": "You risk life and injury for others. For the People is only active while at full health. Press the Active Ability Button 1 while healing another Survivor without a Med-kit to instantly heal them from dying to injured, or from injured to healthy. You become injured and receive the Broken status effect for {0} seconds. You become the Obsession. Equipping this perk decreases your chances of being The Killer’s Obsession at the start of the trial. The Killer can only be obsessed with one Survivor at a time. Broken prevents Survivors from being healed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "heal",
+        "passive",
+        "obsession"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S35P02",
+      "name": "Friendly Competition",
+      "description": "You revel in the community spirit of a competition, and inspire others to follow suit. Whenever you finish repairing a generator with at least one other Survivor, this perk activates. You and other survivors who finished repairing the generator with you get {0}% increased repair progress speed for {1} seconds. Survivors can only have one instance of this perk's ability active at once.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S49P03",
+      "name": "Ghost Notes",
+      "description": "You know that the best breakdowns precede the biggest build-ups. While you have Exhausted, your scratch marks disappear {0}% faster. You recover {1}% faster from Exhausted. Exhausted prevents Survivors from activating other perks that cause Exhausted. “Let’s take it to the bridge!” — Vee Boonyasak",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S43P02",
+      "name": "Hardened",
+      "description": "Live long enough, and survival will run in your blood. This perk activates after you complete all of the following: Unlock a chest;Cleanse or bless a totem. For the rest of the trial, anytime you would scream, reveal the Killer's aura for {0} seconds instead. \"Got to keep quiet. That thing is still out there.\" - Lara Croft",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chest",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "HeadOn",
+      "name": "Head On",
+      "description": "When your mind is set, there better be no one standing in your way. While standing in a locker, for {0} seconds, Head On activates. While Head On is activated, perform a rush action to leave a locker to use Head On. If The Killer is standing within Head On's effective range, The Killer is stunned for {1} seconds. Causes the Exhausted status effect for {2} seconds. Head On cannot be used while Exhausted. You do not recover from the Exhausted status effect while running. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Hope",
+      "name": "Hope",
+      "description": "The growing odds of a successful escape fill you with hope and give you wings. As soon as the exit gates are powered you gain a {0}% Haste status effect. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "speed",
+        "endgame"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S33P03",
+      "name": "Hyperfocus",
+      "description": "You throw yourself entirely into your tasks and find ways to be more efficient than anyone else. After hitting a great Skill Check while repairing or healing, this perk gains {1} token, up to {2} tokens. Each token increases the chance of Skill Check trigger by {3}%, the Skill Check cursor speed by {4}% and the bonus progression for great Skill Checks by {0}% of its base value. The perk loses all tokens in case of normal Skill Check successes, Skill Check fails, or if the action is stopped by any means.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S31P01",
+      "name": "Inner Focus",
+      "description": "You have honed your ability to see through the haze of the Ravage. You can see other Survivors' scratch marks. When the Killer causes another Survivor to lose a health state, the Killer's aura is revealed to you for {0} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "InnerStrength",
+      "name": "Inner Strength",
+      "description": "You look inward and trust your instincts when you feel lost and alone. Each time you complete a Totem cleanse action, Inner Strength activates. If you are already afflicted by the Broken status effect, Inner Strength does not activate. While Inner Strength is active, hiding inside a locker for {0} seconds while injured automatically heals you from injured to healthy. Inner Strength becomes deactivated as soon as it has successfully triggered.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "heal",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S45P01",
+      "name": "Invocation: Treacherous Crows",
+      "description": "One with arcane knowledge has no reason to fear those watchful birds. When in the basement near the circle, press the Ability button 2 to begin the Invocation. Invocations take {0} seconds. Other Survivors will see your aura during this and can join an ongoing interaction. Once the Invocation is completed: You become injured and gain the Broken status effect for the rest of the trial.When a Survivor is in the Terror Radius and the Killer scares a crow, their aura is revealed to all Survivors for {1} seconds. Completing the Invocation disables that perk for all Survivors. Broken prevents Survivors from being healed. \"Remember your training. They taught you all about the crows.\" - Taurie Cain",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "broken",
+        "heal",
+        "oblivious",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S41P01",
+      "name": "Invocation: Weaving Spiders",
+      "description": "The place where fear festers and terror treads is also where those with the gift can reach across the veil. When in the basement near the circle, press the Ability Button 1 to begin the Invocation. Invocations take {0} seconds. Other Survivors will see your aura during this and can join an ongoing interaction. Once the Invocation is completed: You become Injured and gain the Broken status effect for the rest of the trial.Reduce the maximum required generator charges of all remaining generators by {1}. Completing the Invocation disables that perk for all Survivors. Broken prevents Survivors from being healed. \"I call upon the spirits of the night, to aid us in our desperate flight!\" - Sable",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "broken",
+        "generator",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Iron_Will",
+      "name": "Iron Will",
+      "description": "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by {0}%. Does not function while Exhausted. Does not inflict Exhausted. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Kindred",
+      "name": "Kindred",
+      "description": "Unlocks potential in one's aura reading ability. While you are on the hook, all Survivor's auras are revealed to all other Survivors. If The Killer is within a {0} meter range, The Killer's aura is revealed to you and all other Survivors. While a Survivor other than you is on the hook, all other Survivors’ auras are revealed to you. If The Killer is within a {0} meter range of the hooked Survivor, The Killer's aura is revealed to you.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S48P02",
+      "name": "Last Stand",
+      "description": "Even when things are at their worst, your spirit is indomitable. After spending {0} seconds in the Killer's Terror Radius while not in chase, when you fast-vault, stun the Killer for {1} seconds if they are within {2} meters. Then, this perk is disabled for the rest of the trial. \"Some bullies, you can live with. Others, you gotta fight.\" - Michonne Grimes",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chase",
+        "oblivious",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Leader",
+      "name": "Leader",
+      "description": "You're able to organize a team to cooperate more efficiently. Increases other Survivors' healing, sabotage, unhooking, cleansing, opening exit gates, and chest unlocking speeds by {0}% when they are within a {1} meter range from you. Survivors can only be affected by one Leader effect at a time. Once out of range, this effect persists for {2} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "LeftBehind",
+      "name": "Left Behind",
+      "description": "Unlocks potential in one's aura reading ability. If you are the last Survivor remaining in the trial, you can see the aura of the Hatch within a {0} meter range.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S39P03",
+      "name": "Light-footed",
+      "description": "Crossing paths with deadly killers has taught you the value of discretion. When you are healthy, this perk activates. Your running footsteps are silent. This perk goes on cooldown for {0} seconds after performing a rushed action. “Come on, cat.” –Ellen Ripley",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "Lightweight",
+      "name": "Lightweight",
+      "description": "Your running is light and soft, making your tracks harder to follow. Scratch marks stay visible {0} seconds less than normal, and their spacing is inconsistent.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "Lithe",
+      "name": "Lithe",
+      "description": "After performing a rushed vault, you gain {0}% Haste for {1} seconds. Causes the Exhausted status effect for {2} seconds. Lithe cannot be used while Exhausted. Haste increases Survivor movement speed. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S32P03",
+      "name": "Low Profile",
+      "description": "You work best alone. When it’s just you and your pursuer, you know how to disappear. When you become the last Survivor standing, this perk activates. Hide your scratch marks, pools of blood and grunts of pain caused by injuries for {0} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "LuckyBreak",
+      "name": "Lucky Break",
+      "description": "You’ve had your share of scrapes and bruises, but luck’s always on your side. Lucky Break activates any time you are injured. While Lucky Break is active, you won’t leave trails of blood or scratch marks for a total of {0} seconds. While healthy, for each 1 second spent healing another Survivor, increase Lucky Break's duration by 1 second. Lucky Break's duration cannot increase beyond its starting value.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S39P01",
+      "name": "Lucky Star",
+      "description": "You know how to stay calm in the face of incomprehensible danger. When you hide in a locker, you make no grunts of pain. After exiting the locker, you see the aura of the closest generator and all Survivors, leave no pools of blood and make no grunts of pain for {0} seconds. This perk goes on cooldown for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S37P02",
+      "name": "Made for This",
+      "description": "You were born to survive, and raised to adapt. Made for This activates while you are in the injured state. After you finish healing another Survivor, gain the Endurance status effect for {1} seconds.While affected by Deep Wound, you have {0}% Haste. Endurance prevents a Survivor from being downed, inflicting Deep Wound instead. Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "TheMettleOfMan",
+      "name": "Mettle of Man",
+      "description": "Evil has a way of always finding you. After you earn {0} Protection Hit scoring events, Mettle of Man activates. Once activated, the next occasion that would put you into the dying state from the injured state is ignored. The next time you heal back to full health, your aura will be revealed to the Killer when you are further than {1} meters from the Killer. Mettle of Man will deactivate the next time you are put into the dying state. Increases your chances to be the Killer’s Obsession. The Killer can only be obsessed with one Survivor at a time.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "passive",
+        "obsession"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S42P01",
+      "name": "Mirrored Illusion",
+      "description": "A familiar spell made unfamiliar in this corrupted landscape. This perk activates after completing a total of {0}% worth of repairs on generators. Press the Ability button 2 when next to a generator, totem, chest or exit gate to spawn a static illusion that lasts for {1} seconds. Then, the perk deactivates. \"Just... stay there... perfect!\" - Baermar",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "generator",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S44P03",
+      "name": "Moment of Glory",
+      "description": "A hero should always have the chance to make a comeback. This perk activates after you open or rummage through {0} chests. When you become injured, you also become Broken. Automatically heal 1 health state after {1} seconds. Then, this perk deactivates. This effect is canceled if you enter the dying state. This perk will not activate if you are already suffering from the Broken status effect. Broken prevents Survivors from being healed. \"Never lose hope for a brighter tomorrow.\" - Trevor",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "chest",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "NoMither",
+      "name": "No Mither",
+      "description": "You are affected by the Broken status effect for the duration of the trial. Your thick blood coagulates practically instantly.You don't leave pools of blood.Grunts of pain caused by injuries are reduced by {0}% at any time.Your recovery speed is increased by {1}% and you can completely recover from the dying state. Broken prevents Survivors from being healed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "No_One_Left_Behind",
+      "name": "No One Left Behind",
+      "description": "It is inconceivable to leave someone behind. Once the exit gates are powered, you gain the following effects: {0}% bonus action speed when healing and unhooking other Survivors.When unhooking a Survivor, increase the Haste they gain by {1}%.The auras of all other Survivors are revealed to you. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "speed",
+        "endgame"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "ObjectOfObsession",
+      "name": "Object of Obsession",
+      "description": "A supernatural bond links you to the Killer. While your aura is revealed to the Killer, the Killer's aura becomes visible to you and you gain a {0}% bonus to healing, repairing and cleansing speed. If you are the Obsession, your aura is revealed to the Killer for 3 seconds once every 30 seconds. Increases your chances of being the Obsession. The Killer can only be obsessed with one Survivor at a time.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "heal",
+        "passive",
+        "obsession"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "OffTheRecord",
+      "name": "Off the Record",
+      "description": "You’ve learned that a quiet approach is sometimes best. Once you are unhooked or escape from the hook, Off the Record activates for {0} seconds. This perk and its effects are disabled once the exit gates are powered. While Off the Record is active:You gain the Endurance Status Effect.Your aura will not be revealed to the Killer.Grunts of pain caused by injuries are reduced by 100%. Endurance prevents a survivor from being downed, inflicting Deep Wound instead. Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "hook",
+        "endgame"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S49P02",
+      "name": "ONE-TWO-THREE-FOUR!",
+      "description": "A steady beat makes for steady work. Press Active Ability button 2 while standing and idle to enter the \"performance\" interaction that lasts up to 15 seconds and empowers Survivors within {0} meters. You will get continuous Skill Checks during the performance. The effect lasts for {1} seconds if the performance is completed.Increases the odds of getting healing and repair Skill Checks by {2}%. When the ability is canceled or the performance completes, it goes on cooldown for {3} seconds. “We are loud! We are heavy! WE ARE AXEKICK!” — Vee Boonyasak",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Open_Handed",
+      "name": "Open-Handed",
+      "description": "Strengthens the potential of you and your team's aura reading abilities. Increases aura reading ranges by {0} meters.Survivors may only be affected by one Open-Handed effect at a time.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S29P01",
+      "name": "Overcome",
+      "description": "You've calculated how much energy you can risk to expend. When you are injured, you retain the movement speed bonus for {0} seconds longer. Overcome causes the Exhausted status effect for {1} seconds. Overcome cannot be used when Exhausted. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S31P03",
+      "name": "Overzealous",
+      "description": "Fighting back against the Ravage motivates and inspires you. After cleansing or blessing a Totem, this perk activates. Your generator repair speed is increased by {0}%. This bonus is doubled if you cleanse or bless a Hex totem. This perk deactivates when you lose a health state by any means.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "heal",
+        "speed",
+        "totem",
+        "passive",
+        "hex"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S30P01",
+      "name": "Parental Guidance",
+      "description": "You have inherited the ability to hear the dead – and now, the dead warn you of danger. After stunning the Killer by any means, your scratch marks, pools of blood and grunts of pain are hidden for {0} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "Pharmacy",
+      "name": "Pharmacy",
+      "description": "You have a knack for finding medicine. Unlocking chests is {0}% faster.The hearing distance for noises from unlocking chests is reduced by {1} meters.Pharmacy guarantees an Emergency Med-kit upon completing the interaction.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "noise",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S38P03",
+      "name": "Plot Twist",
+      "description": "Big moments are vital, but you know that sometimes an understated read can be just as powerful. Plot Twist activates when you are injured. Press the ability button 2 while crouched and motionless to enter the dying state silently. When using Plot Twist to enter the dying state: you leave no blood pools and you make no noise and you can fully recover from the dying state at 25% increased speed. When you recover by yourself using Plot Twist, you are healed instantly and you gain {0}% Haste for {1} seconds. This perk deactivates if you recover by yourself by any means. This perk re-activates when the exit gates are powered. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "noise",
+        "speed",
+        "endgame"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Plunderers_Instinct",
+      "name": "Plunderer's Instinct",
+      "description": "Unlocks potential in one's aura reading ability. Reveal unopened chests and items when within a {0} meter range. Increases the odds of finding an item of higher rarity from chests by 50%.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Poised",
+      "name": "Poised",
+      "description": "Achieving goals boosts your confidence. When first starting repairs on a generator, reveal the Killer's aura for {0} seconds. When a generator is completed, you leave no scratch marks for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S34P01",
+      "name": "Potential Energy",
+      "description": "Your arcane abilities have adapted to The Entity's Realm after centuries of wandering, granting you unprecedented control over its many devices. While repairing, press the Active Ability Button 2 to gain tokens instead of repairing the generator, up to a maximum of {1} tokens. While you have at least 1 token, press the Active Ability Button 2 to consume all tokens and repair the generator for 1% per token spent. When you lose a health state, all tokens are lost.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S24P03",
+      "name": "Power Struggle",
+      "description": "You’ve never given up and you’re not about to start now. Whenever you are in the dying state, you see the auras of available Pallets. While being carried by The Killer, reaching {0}% wiggle progress activates Power Struggle. While Power Struggle is active, you can drop a nearby, standing pallet to stun The Killer.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Premonition",
+      "name": "Premonition",
+      "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a 45 degree cone within a range of {0} meters. Premonition has a cooldown of {1} seconds each time it activates.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "Prove_Thyself",
+      "name": "Prove Thyself",
+      "description": "For every other Survivor working on a generator within a {0} meter range, gain {1}% repair speed bonus. This same bonus is also applied to all other Survivors within range. Survivors can only be affected by one Prove Thyself effect at a time.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "QuickQuiet",
+      "name": "Quick & Quiet",
+      "description": "You do not make as much noise as others when quickly vaulting over obstacles or hiding in lockers. The vault and hide actions' noise detection and audio range is reduced by {0}%. This effect can only trigger once every {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "noise",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S34P03",
+      "name": "Quick Gambit",
+      "description": "When you have a Killer's attention, you know how to keep it; others can be confident they won't be interrupted any time soon. When you are chased by the Killer, see the aura of other Survivors. Any Survivor repairing a generator gains a {0}% repair speed bonus. This perk goes on cooldown for {1} seconds when you lose a health state.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S46P03",
+      "name": "Rapid Response",
+      "description": "When the moment comes, you give it your all. Your survival depends on it. When you do a Fast Locker Exit, you suffer from the Exhausted status effect for {0} seconds. When you gain Exhausted, you see the Killer's aura for {1} seconds. Exhausted prevents Survivors from activating other perks that cause Exhausted. \"All right. You got this. 3... 2... 1... go!\" - Orela Rose",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "exhausted",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S32P02",
+      "name": "Reactive Healing",
+      "description": "The more the situation becomes compromised, the more determined you become to complete the operation. When another Survivor loses a health state in a {1}-meter radius around you while you are injured, instantly increase your healing progression by {0}% of the missing healing progression.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S33P02",
+      "name": "Reassurance",
+      "description": "Your presence helps allies focus, assuaging the panic associated with extreme conditions. When within a {2}-meter radius around a hooked Survivor, use the Active Ability Button 2 to pause their struggle progression for {0} seconds. If they are on the struggle phase, it also pauses the Struggle Skill Checks. Reassurance can only be triggered once per survivor per hook instance.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "hook",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "RedHerring",
+      "name": "Red Herring",
+      "description": "You’ve noticed that people pay attention to whatever makes the loudest noise. After repairing a generator for at least {0} seconds, it will be highlighted to you with a yellow aura. The generator stays highlighted until it is fully repaired, you repair a new generator, or enter a locker. Entering any locker will trigger a loud noise indicator for The Killer at the highlighted generator's location. Red Herring can only be triggered once every {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "noise",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "RepressedAlliance",
+      "name": "Repressed Alliance ",
+      "description": "You’re accustomed to being hunted by malicious forces, and you’ve begun using it to your advantage. Repressed Alliance activates after repairing generators for a total of {0} seconds. When repairing a generator while the perk is active, press the Active Ability Button 1 to call upon The Entity to block the generator for {1} seconds. The perk deactivates. This interaction is not available if other Survivors are repairing the generator. Affected generators will be revealed by a white aura to all Survivors.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S31P02",
+      "name": "Residual Manifest",
+      "description": "A lifetime of chasing the darkness has taught you that the best disinfectant is light. After a successful Killer Blind action, the Killer is affected by the Blindness status effect for {0} seconds. This perk grants the ability to rummage through an opened chest once per trial and will guarantee a basic Flashlight. Blindness prevents the Killer from seeing auras.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "blind",
+        "chase",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Resilience",
+      "name": "Resilience",
+      "description": "You are motivated in dire situations. Grants {0}% additional speed when repairing, sabotaging, healing, unhooking, vaulting, cleansing or blessing a Totem, opening exit gates, and unlocking while injured.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "heal",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S26P02",
+      "name": "Resurgence",
+      "description": "You've come back from near impossible odds... and you'll do it again. Gain {0}% healing progress instantly after being unhooked or unhooking yourself.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "on_unhook"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S49P01",
+      "name": "Road Life",
+      "description": "Faulty amps, sweaty dives, broken-down vans… nothing makes you feel more alive. While injured, not Broken and repairing a generator, gain 1 token for each regular great Skill Check success. When you have {0} tokens, spend all tokens and gain {1}% healing speed until you stop healing. Lose {2} token when you fail a regular Skill Check. Broken prevents Survivors from being healed. “Remind me to teach you how to patch your own pedals, Krit.” — Vee Boonyasak",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "generator",
+        "heal",
+        "speed",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S27P03",
+      "name": "Rookie Spirit",
+      "description": "You keep a careful eye on objectives when they're slipping away. Complete {0} good or great Skill Checks while repairing generators to activate Rookie Spirit for the remainder of the trial. Once active, you can see the aura of regressing generators.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Saboteur",
+      "name": "Saboteur",
+      "description": "Unlocks potential in one's aura reading ability. See hook auras in a 56 meter radius from the pickup spot if another Survivor is being carried. Scourge Hooks are shown in yellow.Unlocks the ability to sabotage hooks without a Toolbox.Sabotaging a hook without a Toolbox takes 2.3 seconds.The sabotage action has a {0} second cooldown.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S37P03",
+      "name": "Scavenger",
+      "description": "Where others see junk, you see valuable improvised tools. While you are holding an empty toolbox, Scavenger activates. Succeeding a great skill check while repairing gains {0} token, up to {1}. When you reach maximum tokens, lose all tokens and automatically recharge your toolbox to full. Then, your generator repair speed is {2}% slower for {3} seconds. This perk grants the ability to rummage through an opened chest once per Trial and will guarantee a basic Toolbox.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "generator",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S38P02",
+      "name": "Scene Partner",
+      "description": "You lock in with your co-star, engaging with and reacting to each other on a higher level. Scene Partner activates when you are in the Killer's Terror Radius. Whenever you look at the Killer, scream, then see the Killer's aura for {0} seconds. There is a chance you will scream again, if you do, you will see the Killer's aura for an additional 2 seconds. Scene Partner then goes on cooldown for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "oblivious",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "SecondWind",
+      "name": "Second Wind",
+      "description": "When you have healed other Survivors for the equivalent of one health state, Second Wind activates. If you are already afflicted by the Broken status effect, Second Wind does not activate. While Second Wind is activated, the next time you are unhooked or you unhook yourself, you are affected by the Broken status effect. After a total duration of {0} seconds, Second Wind automatically heals you from injured to healthy. Second Wind deactivates once you become healthy or if you are put into the dying state before Second Wind successfully triggers. You lose the Broken status effect. Broken prevents Survivors from being healed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "broken",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Self_Care",
+      "name": "Self-Care",
+      "description": "Unlocks the Self Care ability, which allows you to heal without a Med-kit at {0}% normal healing speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S25P03",
+      "name": "Self-Preservation",
+      "description": "Life's unforgiving. Sometimes it's best to look out for yourself. Whenever another Survivor within {0} meters of you gets hit by a basic attack or a special attack, Self-Preservation activates. Your scratch marks, pools of blood and grunts of pain are hidden for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "S45P03",
+      "name": "Shoulder the Burden",
+      "description": "Born to be a disciple. Ready to submit to a greater cause. This is your calling. Once per trial, as long as you are not on death hook, press the Ability button 2 in front of a hooked Survivor to unhook them. When they are unhooked, they lose 1 hook state and you gain 1 hook state. You also scream and gain the Exposed status effect for {0} seconds. Exposed Survivors will be downed by basic attacks even if uninjured. \"It's not your time yet. Now go on!\" - Taurie Cain",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exposed",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Slippery_Meat",
+      "name": "Slippery Meat",
+      "description": "You have developed an efficient way to get off hooks. Unlocks the ability to attempt to unhook yourself.Grants up to {0} extra escape attempts on the hook.Hook escape attempts have a {1}% increased chance to succeed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "hook",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Small_Game",
+      "name": "Small Game",
+      "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of Totems in a 45-degree cone within a range of {0} meters. Small Game has a cooldown of {1} seconds each time it activates. For each Dull Totem and Hex Totem cleansed by any player, gain a Token. Small Game's detection cone is reduced by 5 degrees per token.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "totem",
+        "passive",
+        "hex",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S25P02",
+      "name": "Smash Hit",
+      "description": "When your rival makes a mistake, you seize the opportunity. After stunning the Killer with a pallet, gain {0}% Haste for {1} seconds. Causes the Exhausted status effect for {2} seconds. This perk cannot be used while Exhausted. Exhausted prevents Survivors from activating exhausting perks. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "SoleSurvivor",
+      "name": "Sole Survivor",
+      "description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's aura-reading abilities towards you are disrupted. Every time a fellow Survivor is killed or sacrificed, gain a token. For each token, your aura cannot be read by The Killer within a max range of {0} meters. When you're the last Survivor alive:Gain 75% action speed when repairing generators.Gain 50% action speed while opening an exit gate or the Hatch. Increases your chances of being The Killer's Obsession. The Killer can only be obsessed with one Survivor at a time.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive",
+        "obsession",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Solidarity",
+      "name": "Solidarity",
+      "description": "Sharing painful experiences has the power to heal. While injured, healing a Survivor without using a Med-kit also heals you at a {0}% conversion rate.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "SoulGuard",
+      "name": "Soul Guard",
+      "description": "You have been through immense hardship and you’re stronger for it. Gain the Endurance status effect for {0} seconds after being healed or having recovered from the dying state. While cursed by a Hex, you can fully recover from the dying state. This effect can only trigger once every 30 seconds. Endurance prevents a Survivor from being downed, inflicting Deep Wound instead. Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive",
+        "hex"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "S43P03",
+      "name": "Specialist",
+      "description": "Adventure. Exploration. Excavation. You are in your element. Each time you open or rummage through a chest, gain 1 token, up to {0}. When you perform a great Skill Check on a generator, consume all tokens. Then, for each token consumed, reduce the maximum required generator progress by {1}. \"Well, then. Doesn't this feel familiar?\" - Lara Croft",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chest",
+        "generator",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Spine_Chill",
+      "name": "Spine Chill",
+      "description": "An unnatural tingle warns you of impending doom. Get notified when the Killer is looking at you with a clear line of sight within a 36-meter range. Your speed while repairing, sabotaging, healing, unhooking, cleansing, blessing, opening exit gates and unlocking is increased by {0}%.The effects of Spine Chill linger for 0.5 seconds after the Killer looks away or is out of range.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chase",
+        "generator",
+        "heal",
+        "totem",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Sprint_Burst",
+      "name": "Sprint Burst",
+      "description": "When you start running, gain {0}% Haste for a maximum of {1} seconds. Causes the Exhausted status effect for {2} seconds. Sprint Burst cannot be used while Exhausted. You do not recover from the Exhausted status effect while running. Haste increases Survivor movement speed. Exhausted prevents Survivors from activating exhausting perks.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "exhausted",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "StakeOut",
+      "name": "Stake Out",
+      "description": "Getting close to the Killer fills you with determination. For each {0} seconds you are standing within the Killer Terror Radius and not in a chase, you gain a token up to a maximum of {1} tokens. When Stake Out has at least 1 token, good Skill Checks are considered great Skill Checks, consume 1 token, and grant an additional 1% bonus to generator repair progress.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "chase",
+        "generator",
+        "oblivious",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S42P03",
+      "name": "Still Sight",
+      "description": "A clear mind and calm temperament will always find the means of their escape. After not moving for {0} seconds, this perk activates. Until you start moving, you see the aura of the Killer as well as all generators and chests within {1} meters. \"Breathe in. Breathe out. Now open your eyes.\" - Baermar",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chest",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Streetwise",
+      "name": "Streetwise",
+      "description": "Long nights out taught you to do a lot with what you've got. The first time you deplete an Item with charges, see the Killer's Aura for {1} seconds. Items with charges retrieved from Chests have +{0}% charges. \"You're doing it wrong! Let me show you how it's done.\" - Nea",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chest",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S41P02",
+      "name": "Strength in Shadows",
+      "description": "A chance for renewed power down where danger calls home. When in the basement, this perk activates. Unlocks the Strength in Shadows ability, which allows you to heal without a Med-kit at {0}% normal healing speed. When you finish a heal in the basement, you see the Killer's aura for {1} seconds. \"I’m getting out of here, if it’s the last thing I do.” - Sable",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S36P03",
+      "name": "Teamwork: Collective Stealth",
+      "description": "When someone helps you out, you respond in kind. When another Survivor finishes healing you, you both leave no scratch marks as long as you stay within {1} meters of each other. This effect lingers for 4 seconds when leaving the range. This effect does not stack.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S50P03",
+      "name": "Teamwork: Full Circuit",
+      "description": "You’ve dabbled with mechanical engineering and show off your abilities to others. For each Survivor repairing a generator with you, the size of the good Skill Check zone is increased by {0}%. While repairing with at least 1 other Survivor, you repair {1}% faster. “How many times do I have to be right on the money before you guys just trust me?” —Dustin Henderson",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S35P03",
+      "name": "Teamwork: Power of Two",
+      "description": "It’s hard to keep up with you, but it doesn’t stop people from trying. When you finish healing another Survivor, you both gain {0}% Haste as long as you stay within {1} meters of each other. This effect lingers for 4 seconds when leaving the range. This effect does not stack. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "speed",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S51P03",
+      "name": "Teamwork: Soft-Spoken",
+      "description": "You look out for your friends, using your abilities to protect them. For each Survivor repairing a generator with you, the range at which the generator’s noise is heard is reduced by {0}%. While repairing with at least 1 other Survivor, you repair {1}% faster. \"I make my own rules.\" —Eleven",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "noise",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S48P03",
+      "name": "Teamwork: Throw Down",
+      "description": "You know the best way to even the odds is to empower those around you. When you pallet-stun or blind the Killer, other injured Survivors within {0} meters gain Endurance and see the Killer's aura for {1} seconds. Endurance prevents a Survivor from being downed, inflicting Deep Wound instead. Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out. \"Facing evil brings good people together.\" - Michonne Grimes",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "blind",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S47P03",
+      "name": "Teamwork: Toughen Up",
+      "description": "You maintain your composure under immense amounts of pain. When another Survivor pallet-stuns or blinds the Killer while you are injured and within {0} meters, your grunts of pain, scratch marks, and pools of blood are reduced by {1}% for {2} seconds. “They're fucking with the wrong people.” —Rick Grimes",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Technician",
+      "name": "Technician",
+      "description": "You are apt at handling machinery with the greatest care and precision. The noises caused by your repairs and their hearing distance are reduced by {0} meters. On a failed repair Skill Check, the following effects happen: The generator explosion will be prevented.The generator loses progress as usual.An additional {1}% progress is lost.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "noise",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Tenacity",
+      "name": "Tenacity",
+      "description": "There is nothing stopping you. Your ferocious tenacity in dire situations allows you to, while in the dying state, have {0}% Haste and gain recovery progress while crawling. While you are in the dying state, your aura cannot be read by the Killer and Grunts of pain are reduced by 75%. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "This_Is_Not_Happening",
+      "name": "This Is Not Happening",
+      "description": "You perform at your best when you are under extreme stress. Great Skill Check success zones when repairing and healing get {0}% bigger when you are injured.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "generator",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S37P01",
+      "name": "Troubleshooter",
+      "description": "No amount of distraction will shake you from your primary task. When you are chased by the Killer, Troubleshooter activates. You see the aura of the Generator with the most progress.You see the aura of the Killer for {0} seconds after dropping a Pallet. The effect lasts for {1} seconds after being in chase, then deactivates.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "chase",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "SelfSufficient",
+      "name": "Unbreakable",
+      "description": "Past battles have taught you a thing or two about survival. Grants the ability to fully recover from the dying state once per trial. Increases dying recovery speed by {0}%.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Up_The_Ante",
+      "name": "Up the Ante",
+      "description": "All will be well in the end; you just know it. Your confidence strengthens the feeling of hope for those around you. For each other Survivor still alive, grant a {0}% bonus of luck to all remaining Survivors. Unlocks the ability to attempt to unhook yourself for all Survivors.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "passive",
+        "stackable"
+      ],
+      "needs_review": true
+    },
+    {
+      "id": "Urban_Evasion",
+      "name": "Urban Evasion",
+      "description": "Years of evading the cops taught you a thing or two about stealth. While crouching, you have {0}% Haste. Haste increases Survivor movement speed.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Vigil",
+      "name": "Vigil",
+      "description": "You look over your friends even in dire situations. You and Survivors within {0} meters recover {1}% faster from the Blindness, Broken, Exhausted, Exposed, Hemorrhage, Hindered, Mangled and Oblivious status effects. Survivors can only be affected by one Vigil's effect at a time. Once out of range, this effect persists for {2} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "blind",
+        "broken",
+        "exhausted",
+        "exposed",
+        "hindered",
+        "oblivious",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "Visionary",
+      "name": "Visionary",
+      "description": "You’re remarkably focused on your means of escape. You see generator’s auras within {0} meters. Anytime a generator is completed, Visionary is disabled for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "WakeUp",
+      "name": "Wake Up!",
+      "description": "Unlocks potential in one's aura reading ability. Once all generators are powered, exit gates are revealed to you. While opening the exit gates, reveal your aura to other Survivors. While this perk is active, open the exit gates {0}% faster for each Survivor still alive.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "endgame",
+        "stackable"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S51P02",
+      "name": "We See You",
+      "description": "You’ve honed your powers and can turn the table on those who try to find you. Gain 1 token when the Killer reveals your aura. When you have {0} tokens, they are all consumed, and the Killer’s aura is revealed to you and all other Survivors for {1} seconds. This perk has a {2}-second cooldown. “It is not me. It is you. You are the monster.” —Eleven",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "WellMakeIt",
+      "name": "We'll make it",
+      "description": "Helping others heightens your morale. When you rescue a Survivor from a hook, gain a {0}% speed increase while healing others for {1} seconds.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "hook",
+        "on_rescue"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "WereGonnaLiveForever",
+      "name": "We're Gonna Live Forever",
+      "description": "Your few friends deserve the best protection. When healing another Survivor in the dying state, your healing speed is increased by {0}%. Once healing is complete, the healed Survivor gains the Endurance status effect for {1} seconds. This effect has a {2}-second cooldown. Endurance prevents a Survivor from being downed, inflicting Deep Wound instead. Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "heal",
+        "speed",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S41P03",
+      "name": "Wicked",
+      "description": "They can try to hurt you. But you’re not going down so easily. Your self-unhook attempts in the basement always succeed. When you are unhooked or unhook yourself, you see the Killer's aura for {0} seconds. “I haven’t let anyone get in my way before. You think I’m gonna start now?” - Sable",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "WindowsOfOpportunity",
+      "name": "Windows of Opportunity",
+      "description": "Unlocks potential in one's aura reading ability. Auras of pallets, breakable walls, and vault locations are revealed to you when within a {0} meter range.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "passive"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "S32P01",
+      "name": "Wiretap",
+      "description": "You know that the best way to stay one step ahead is to keep tabs on the competition. Wiretap activates after completing a total of {1}% worth of repair progress on generators. When standing next to a generator, press the Active Ability button 2 to install a Wiretap, which stays active for {0} seconds. Affected generators will be revealed to all Survivors by a yellow aura. Only one Wiretap can be active on a generator. When the Killer enters within {3} meters of the generator, their aura is revealed to all Survivors.Wiretap deactivates when the generator is damaged by the Killer or when the timer expires.",
+      "owner": null,
+      "role": "survivor",
+      "tags": [
+        "original_survivor",
+        "aura",
+        "generator",
+        "passive"
+      ],
+      "needs_review": false
+    }
+  ]
+}

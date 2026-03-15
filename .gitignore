@@ -1,0 +1,6 @@
+.env
+dist
+node_modules
+claude
+.vscode
+backend/src/generated/prisma

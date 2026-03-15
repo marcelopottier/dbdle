@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-16",
+  "groups": [
+    {
+      "theme": "Perks related to healing actions",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": [
+        "Empathy",
+        "Inner Focus",
+        "Unbreakable",
+        "Resurgence"
+      ]
+    },
+    {
+      "theme": "Perks that involve aura reading",
+      "color": "green",
+      "difficulty": 2,
+      "perks": [
+        "Buckle Up",
+        "Counterforce",
+        "Left Behind",
+        "Residual Manifest"
+      ]
+    },
+    {
+      "theme": "Perks that improve speed under certain conditions",
+      "color": "blue",
+      "difficulty": 3,
+      "perks": [
+        "We're Gonna Live Forever",
+        "Breakout",
+        "Urban Evasion",
+        "Duty of Care"
+      ]
+    },
+    {
+      "theme": "Perks activated by totem interactions",
+      "color": "purple",
+      "difficulty": 4,
+      "perks": [
+        "Boon: Circle of Healing",
+        "Overzealous",
+        "Inner Strength",
+        "Small Game"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #c0392b;
+  --color-background-light: #f0e6d3;
+  --color-background-dark: #0d0d0d;
+  --color-bone: #f0e6d3;
+  --color-blood: #c0392b;
+  --color-void: #050505;
+  --color-card-dark: #1a1a1a;
+  
+  --font-display: "Bebas Neue", "Roboto", sans-serif;
+  --font-sans: "Public Sans", sans-serif;
+  
+  --radius-DEFAULT: 0.125rem;
+  --radius-lg: 0.25rem;
+  --radius-xl: 0.5rem;
+  --radius-full: 0.75rem;
+}
+
+@layer utilities {
+  .fog-overlay {
+    background: radial-gradient(circle at 50% 50%, transparent 0%, rgba(13, 13, 13, 0.9) 100%), linear-gradient(to bottom, transparent, rgba(192, 57, 43, 0.05));
+  }
+  .grime-texture {
+    background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAGd_v8kEQOhRZOY-Th8DKWlAtzyCci1RJqryy6tO5h4qj4RpthJlmZQmJ4XwohUSxzOsywF-4r8R_CL_lyfEFdiWIaGPvc-7YdHfs2EOcdqBRV5PezmRqbBEWYPCLuD8FiieCxGuziUUiGSMhXF7BnVYHMZc746o_C_hzjgGrbRbmMCzAZC5Yj_zFQ4M633jtgSoSp3DkOSrQKJsxlGMefL1eKE9OFhNPbmATTL3kTYlzJMeZOnv3wSzoU1Lk8lnTVzFhtsE5fSxw");
+    opacity: 0.05;
+  }
+  .dbdle-glow {
+    text-shadow: 0 0 10px rgba(192, 57, 43, 0.8), 0 0 20px rgba(192, 57, 43, 0.4);
+  }
+  .scanline {
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 2px, 3px 100%;
+  }
+  .waveform-bar {
+    background-color: var(--color-blood);
+    width: 4px;
+    border-radius: 2px;
+  }
+  .animate-pulse-ring {
+    animation: pulse-ring 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+  .btn-dbd {
+    @apply relative overflow-hidden border border-blood rounded-xl py-3 px-6 font-display text-sm tracking-[0.2em] uppercase text-bone transition-all hover:bg-blood hover:text-bone active:scale-95 disabled:opacity-30 disabled:cursor-not-allowed;
+    background: linear-gradient(135deg, rgba(13, 13, 13, 0.8) 0%, rgba(30, 10, 10, 0.9) 100%);
+  }
+  .btn-dbd::after {
+    content: '';
+    @apply absolute inset-0 bg-blood opacity-0 transition-opacity;
+  }
+  .btn-dbd:hover::after {
+    @apply opacity-10;
+  }
+  .loading-fog {
+    @apply relative overflow-hidden bg-card-dark rounded-lg;
+  }
+  .loading-fog::after {
+    content: '';
+    @apply absolute inset-0;
+    background: linear-gradient(90deg, transparent, rgba(192, 57, 43, 0.1), transparent);
+    animation: loading-shimmer 2s infinite;
+  }
+}
+
+@keyframes loading-shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+@keyframes flicker {
+  0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+    opacity: 0.99;
+    filter: drop-shadow(0 0 1px rgba(192, 57, 43, 0.2));
+  }
+  20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+    opacity: 0.4;
+    filter: none;
+  }
+}
+
+@keyframes glitch-text {
+  0% { transform: translate(0); text-shadow: -2px 0 #ff00c1, 2px 0 #00fff9; }
+  25% { transform: translate(-2px, 2px); }
+  50% { transform: translate(2px, -2px); }
+  75% { transform: translate(-1px, -1px); }
+  100% { transform: translate(0); }
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.95); opacity: 0.5; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+  100% { transform: scale(0.95); opacity: 0.5; }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%       { transform: translateX(-6px); }
+  40%       { transform: translateX(6px); }
+  60%       { transform: translateX(-4px); }
+  80%       { transform: translateX(4px); }
+}
+
+body {
+  @apply bg-background-dark font-sans text-bone antialiased selection:bg-blood selection:text-white;
+}

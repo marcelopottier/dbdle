@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-19",
+  "groups": [
+    {
+      "theme": "Perks with a focus on healing others",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": [
+        "Better Than New",
+        "Do No Harm",
+        "Mettle of Man",
+        "Teamwork: Power of Two"
+      ]
+    },
+    {
+      "theme": "Perks that involve a totem interaction",
+      "color": "green",
+      "difficulty": 2,
+      "perks": [
+        "Boon: Exponential",
+        "Boon: Dark Theory",
+        "Boon: Shadow Step",
+        "Mirrored Illusion"
+      ]
+    },
+    {
+      "theme": "Perks providing benefits when exhausted",
+      "color": "blue",
+      "difficulty": 3,
+      "perks": [
+        "Blood Rush",
+        "Ghost Notes",
+        "Iron Will",
+        "Rapid Response"
+      ]
+    },
+    {
+      "theme": "Perks with effects involving aura reading",
+      "color": "purple",
+      "difficulty": 4,
+      "perks": [
+        "Power Struggle",
+        "Saboteur",
+        "Troubleshooter",
+        "We See You"
+      ]
+    }
+  ]
+}

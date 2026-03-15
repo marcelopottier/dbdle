@@ -1,0 +1,2831 @@
+{
+  "generatedAt": "2026-03-11T23:51:24.594Z",
+  "imageSource": "local",
+  "totalKillers": 42,
+  "totalSurvivors": 51,
+  "characters": [
+    {
+      "id": "dwightfairfield",
+      "name": "Dwight Fairfield",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S01_DwightFairfield_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "difficulty": "easy"
+    },
+    {
+      "id": "megthomas",
+      "name": "Meg Thomas",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S02_MegThomas_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "difficulty": "easy"
+    },
+    {
+      "id": "claudettemorel",
+      "name": "Claudette Morel",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S03_ClaudetteMorel_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "jakepark",
+      "name": "Jake Park",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S04_JakePark_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "difficulty": "hard"
+    },
+    {
+      "id": "neakarlsson",
+      "name": "Nea Karlsson",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S05_NeaKarlsson_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "difficulty": "hard"
+    },
+    {
+      "id": "lauriestrode",
+      "name": "Laurie Strode",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S06_LaurieStrode_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 2,
+      "releaseYear": 2016,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "acevisconti",
+      "name": "Ace Visconti",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S07_AceVisconti_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 2,
+      "releaseYear": 2016,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "williambilloverbeck",
+      "name": "William \"Bill\" Overbeck",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S08_BillOverbeck_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 4,
+      "releaseYear": 2017,
+      "difficulty": "hard"
+    },
+    {
+      "id": "fengmin",
+      "name": "Feng Min",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S09_FengMin_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 5,
+      "releaseYear": 2017,
+      "difficulty": "hard"
+    },
+    {
+      "id": "davidking",
+      "name": "David King",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S10_DavidKing_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 6,
+      "releaseYear": 2017,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "katedenson",
+      "name": "Kate Denson",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S13_KateDenson_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 10,
+      "releaseYear": 2018,
+      "difficulty": "easy"
+    },
+    {
+      "id": "quentinsmith",
+      "name": "Quentin Smith",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S11_QuentinSmith_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 7,
+      "releaseYear": 2017,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "detectivetapp",
+      "name": "Detective Tapp",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S12_DavidTapp_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 8,
+      "releaseYear": 2017,
+      "difficulty": "hard"
+    },
+    {
+      "id": "adamfrancis",
+      "name": "Adam Francis",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S14_AdamFrancis_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 9,
+      "releaseYear": 2018,
+      "difficulty": "hard"
+    },
+    {
+      "id": "jeffjohansen",
+      "name": "Jeff Johansen",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S15_JeffJohansen_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 10,
+      "releaseYear": 2018,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "janeromero",
+      "name": "Jane Romero",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S16_JaneRomero_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 11,
+      "releaseYear": 2019,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ashleyjwilliams",
+      "name": "Ashley J. Williams",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S17_AshWilliams_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 12,
+      "releaseYear": 2019,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "nancywheeler",
+      "name": "Nancy Wheeler",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S18_NancyWheeler_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 13,
+      "releaseYear": 2019,
+      "difficulty": "easy"
+    },
+    {
+      "id": "steveharrington",
+      "name": "Steve Harrington",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S19_SteveHarrington_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 13,
+      "releaseYear": 2019,
+      "difficulty": "easy"
+    },
+    {
+      "id": "yuikimura",
+      "name": "Yui Kimura",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S20_YuiKimura_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 14,
+      "releaseYear": 2019,
+      "difficulty": "hard"
+    },
+    {
+      "id": "zarinakassir",
+      "name": "Zarina Kassir",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S21_ZarinaKassir_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 15,
+      "releaseYear": 2020,
+      "difficulty": "hard"
+    },
+    {
+      "id": "cherylmason",
+      "name": "Cheryl Mason",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S22_CherylMason_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 16,
+      "releaseYear": 2020,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "felixrichter",
+      "name": "Felix Richter",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S23_FelixRichter_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 17,
+      "releaseYear": 2020,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "lodierakoto",
+      "name": "Élodie Rakoto",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S24_ElodieRakoto_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 18,
+      "releaseYear": 2020,
+      "difficulty": "hard"
+    },
+    {
+      "id": "yunjinlee",
+      "name": "Yun-Jin Lee",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S25_LeeYun-jin_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 19,
+      "releaseYear": 2021,
+      "difficulty": "hard"
+    },
+    {
+      "id": "jillvalentine",
+      "name": "Jill Valentine",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S26_JillValentine_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 20,
+      "releaseYear": 2021,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "leonskennedy",
+      "name": "Leon S. Kennedy",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S27_LeonScottKennedy_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 20,
+      "releaseYear": 2021,
+      "difficulty": "easy"
+    },
+    {
+      "id": "mikaelareid",
+      "name": "Mikaela Reid",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S28_MikaelaReid_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 21,
+      "releaseYear": 2021,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "jonahvasquez",
+      "name": "Jonah Vasquez",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S29_JonahVasquez_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 22,
+      "releaseYear": 2021,
+      "difficulty": "hard"
+    },
+    {
+      "id": "yoichiasakawa",
+      "name": "Yoichi Asakawa",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S30_YoichiAsakawa_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 23,
+      "releaseYear": 2022,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "haddiekaur",
+      "name": "Haddie Kaur",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S31_HaddieKaur_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 24,
+      "releaseYear": 2022,
+      "difficulty": "easy"
+    },
+    {
+      "id": "adawong",
+      "name": "Ada Wong",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S32_AdaWong_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 25,
+      "releaseYear": 2022,
+      "difficulty": "hard"
+    },
+    {
+      "id": "rebeccachambers",
+      "name": "Rebecca Chambers",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S33_RebeccaChambers_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 25,
+      "releaseYear": 2022,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "vittoriotoscano",
+      "name": "Vittorio Toscano",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S34_VittorioToscano_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 26,
+      "releaseYear": 2022,
+      "difficulty": "hard"
+    },
+    {
+      "id": "thalitalyra",
+      "name": "Thalita Lyra",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S35_ThalitaLyra_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 27,
+      "releaseYear": 2023,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "renatolyra",
+      "name": "Renato Lyra",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S36_RenatoLyra_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 27,
+      "releaseYear": 2023,
+      "difficulty": "easy"
+    },
+    {
+      "id": "gabrielsoma",
+      "name": "Gabriel Soma",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S37_GabrielSoma_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 28,
+      "releaseYear": 2023,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "nicolascage",
+      "name": "Nicolas Cage",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S38_NicolasCage_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 29,
+      "releaseYear": 2023,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ellenripley",
+      "name": "Ellen Ripley",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S39_EllenRipley_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 30,
+      "releaseYear": 2023,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "alanwake",
+      "name": "Alan Wake",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S40_AlanWake_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 32,
+      "releaseYear": 2024,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "sableward",
+      "name": "Sable Ward",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S41_SableWard_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 31,
+      "releaseYear": 2024,
+      "difficulty": "hard"
+    },
+    {
+      "id": "aestriyazar",
+      "name": "Aestri Yazar",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S42_TheTroupe_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 33,
+      "releaseYear": 2024,
+      "difficulty": "easy"
+    },
+    {
+      "id": "laracroft",
+      "name": "Lara Croft",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S43_LaraCroft_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 31,
+      "releaseYear": 2024,
+      "difficulty": "hard"
+    },
+    {
+      "id": "trevorbelmont",
+      "name": "Trevor Belmont",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S44_TrevorBelmont_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 34,
+      "releaseYear": 2024,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "tauriecain",
+      "name": "Taurie Cain",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S45_TaurieCain_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 35,
+      "releaseYear": 2024,
+      "difficulty": "hard"
+    },
+    {
+      "id": "orelarose",
+      "name": "Orela Rose",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S46_OrelaRose_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 36,
+      "releaseYear": 2025,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "rickgrimes",
+      "name": "Rick Grimes",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S47_RickGrimes_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 37,
+      "releaseYear": 2025,
+      "difficulty": "easy"
+    },
+    {
+      "id": "michonnegrimes",
+      "name": "Michonne Grimes",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S48_MichonneGrimes_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 37,
+      "releaseYear": 2025,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "veeboonyasak",
+      "name": "Vee Boonyasak",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S49_VeeBoonyasak_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 38,
+      "releaseYear": 2025,
+      "difficulty": "hard"
+    },
+    {
+      "id": "dustinhenderson",
+      "name": "Dustin Henderson",
+      "role": "survivor",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/S50_DustinHenderson_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 38,
+      "releaseYear": 2025,
+      "difficulty": "easy"
+    },
+    {
+      "id": "eleven",
+      "name": "Eleven",
+      "role": "survivor",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/S51_Eleven_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 38,
+      "releaseYear": 2025,
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "trapper",
+      "name": "The Trapper",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K01_TheTrapper_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "trapper",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "wraith",
+      "name": "The Wraith",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K02_TheWraith_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "hillbilly",
+      "name": "The Hillbilly",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K03_TheHillbilly_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "nurse",
+      "name": "The Nurse",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K04_TheNurse_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 1,
+      "releaseYear": 2016,
+      "moveSpeed": 3.82,
+      "terrorRadius": 32,
+      "powerCategory": "blink",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "hag",
+      "name": "The Hag",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K06_TheHag_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 3,
+      "releaseYear": 2016,
+      "moveSpeed": 4.4,
+      "terrorRadius": 24,
+      "powerCategory": "trapper",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "shape",
+      "name": "The Shape",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K05_TheShape_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Halloween",
+      "chapter": 2,
+      "releaseYear": 2016,
+      "moveSpeed": 4.6,
+      "terrorRadius": 16,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "doctor",
+      "name": "The Doctor",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K07_TheDoctor_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 4,
+      "releaseYear": 2017,
+      "moveSpeed": 4.6,
+      "terrorRadius": 40,
+      "powerCategory": "madness",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "huntress",
+      "name": "The Huntress",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K08_TheHuntress_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 5,
+      "releaseYear": 2017,
+      "moveSpeed": 4.6,
+      "terrorRadius": 40,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "cannibal",
+      "name": "The Cannibal",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K09_TheCannibal_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Texas Chain Saw",
+      "chapter": 6,
+      "releaseYear": 2017,
+      "moveSpeed": 4.6,
+      "terrorRadius": 24,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "nightmare",
+      "name": "The Nightmare",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K10_TheNightmare_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "A Nightmare on Elm Street",
+      "chapter": 7,
+      "releaseYear": 2017,
+      "moveSpeed": 4.6,
+      "terrorRadius": 40,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "pig",
+      "name": "The Pig",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K11_ThePig_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Saw",
+      "chapter": 8,
+      "releaseYear": 2017,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "clown",
+      "name": "The Clown",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K12_TheClown_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 9,
+      "releaseYear": 2018,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "spirit",
+      "name": "The Spirit",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K13_TheSpirit_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 10,
+      "releaseYear": 2018,
+      "moveSpeed": 4.6,
+      "terrorRadius": 24,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "legion",
+      "name": "The Legion",
+      "role": "killer",
+      "gender": "nonbinary",
+      "portraitUrl": "/assets/portraits/K14_TheLegion_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 11,
+      "releaseYear": 2018,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "frenzy",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "plague",
+      "name": "The Plague",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K15_ThePlague_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 12,
+      "releaseYear": 2019,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "ghostface",
+      "name": "The Ghost Face",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K16_TheGhostFace_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Scream",
+      "chapter": 13,
+      "releaseYear": 2019,
+      "moveSpeed": 4.6,
+      "terrorRadius": 24,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "demogorgon",
+      "name": "The Demogorgon",
+      "role": "killer",
+      "gender": "nonbinary",
+      "portraitUrl": "/assets/portraits/K17_TheDemogorgon_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Stranger Things",
+      "chapter": 14,
+      "releaseYear": 2019,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "portal",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "oni",
+      "name": "The Oni",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K18_TheOni_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 15,
+      "releaseYear": 2019,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "absorb",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "deathslinger",
+      "name": "The Deathslinger",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K19_TheDeathslinger_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 16,
+      "releaseYear": 2020,
+      "moveSpeed": 4.4,
+      "terrorRadius": 24,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "executioner",
+      "name": "The Executioner",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K20_TheExecutioner_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Silent Hill",
+      "chapter": 17,
+      "releaseYear": 2020,
+      "moveSpeed": 4.4,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "blight",
+      "name": "The Blight",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K21_TheBlight_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 18,
+      "releaseYear": 2020,
+      "moveSpeed": 4.6,
+      "terrorRadius": 24,
+      "powerCategory": "rush",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "twins",
+      "name": "The Twins",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K22_TheTwins_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 19,
+      "releaseYear": 2020,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "summon",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "trickster",
+      "name": "The Trickster",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K23_TheTrickster_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 20,
+      "releaseYear": 2021,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "nemesis",
+      "name": "The Nemesis",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K24_TheNemesis_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Resident Evil",
+      "chapter": 21,
+      "releaseYear": 2021,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "infection",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "cenobite",
+      "name": "The Cenobite",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K25_TheCenobite_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Hellraiser",
+      "chapter": 22,
+      "releaseYear": 2021,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "summon",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "artist",
+      "name": "The Artist",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K26_TheArtist_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 23,
+      "releaseYear": 2021,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "onry",
+      "name": "The Onryō",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K27_TheOnryo_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": null,
+      "releaseYear": null,
+      "moveSpeed": null,
+      "terrorRadius": null,
+      "powerCategory": null,
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "dredge",
+      "name": "The Dredge",
+      "role": "killer",
+      "gender": "nonbinary",
+      "portraitUrl": "/assets/portraits/K28_TheDredge_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 25,
+      "releaseYear": 2022,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "teleport",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "mastermind",
+      "name": "The Mastermind",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K29_TheMastermind_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Resident Evil",
+      "chapter": 26,
+      "releaseYear": 2022,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "control",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "knight",
+      "name": "The Knight",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K30_TheKnight_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 27,
+      "releaseYear": 2022,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "summon",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "skullmerchant",
+      "name": "The Skull Merchant",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K31_TheSkullMerchant_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 28,
+      "releaseYear": 2023,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "trapper",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "singularity",
+      "name": "The Singularity",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K32_TheSingularity_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 29,
+      "releaseYear": 2023,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "control",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "xenomorph",
+      "name": "The Xenomorph",
+      "role": "killer",
+      "gender": "nonbinary",
+      "portraitUrl": "/assets/portraits/K33_TheXenomorph_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Alien",
+      "chapter": 30,
+      "releaseYear": 2023,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "goodguy",
+      "name": "The Good Guy",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K34_TheGoodGuy_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Chucky",
+      "chapter": 31,
+      "releaseYear": 2023,
+      "moveSpeed": 3.92,
+      "terrorRadius": 32,
+      "powerCategory": "stealth",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "unknown",
+      "name": "The Unknown",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K35_TheUnknown_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 32,
+      "releaseYear": 2024,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "lich",
+      "name": "The Lich",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K36_TheLich_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Dungeons & Dragons",
+      "chapter": 33,
+      "releaseYear": 2024,
+      "moveSpeed": 4.6,
+      "terrorRadius": 40,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "darklord",
+      "name": "The Dark Lord",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K37_TheDarkLord_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "licensed",
+      "license": "Castlevania",
+      "chapter": 34,
+      "releaseYear": 2024,
+      "moveSpeed": 4.4,
+      "terrorRadius": 32,
+      "powerCategory": "ranged",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "houndmaster",
+      "name": "The Houndmaster",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/K38_TheHoundmaster_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": 35,
+      "releaseYear": 2024,
+      "moveSpeed": 4.6,
+      "terrorRadius": 32,
+      "powerCategory": "summon",
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "ghoul",
+      "name": "The Ghoul",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K39_TheGhoul_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": null,
+      "releaseYear": null,
+      "moveSpeed": null,
+      "terrorRadius": null,
+      "powerCategory": null,
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "animatronic",
+      "name": "The Animatronic",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/K40_TheAnimatronic_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": null,
+      "releaseYear": null,
+      "moveSpeed": null,
+      "terrorRadius": null,
+      "powerCategory": null,
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "krasue",
+      "name": "The Krasue",
+      "role": "killer",
+      "gender": "female",
+      "portraitUrl": "/assets/portraits/T_UI_K41_TheKrasue_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": null,
+      "releaseYear": null,
+      "moveSpeed": null,
+      "terrorRadius": null,
+      "powerCategory": null,
+      "terrorRadiusAudioUrl": null
+    },
+    {
+      "id": "first",
+      "name": "The First",
+      "role": "killer",
+      "gender": "male",
+      "portraitUrl": "/assets/portraits/T_UI_K42_TheFirst_Portrait.png",
+      "perks": [
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        },
+        {
+          "name": "",
+          "description": "",
+          "iconUrl": "/assets/perks/IconPerks_.png"
+        }
+      ],
+      "origin": "original",
+      "license": null,
+      "chapter": null,
+      "releaseYear": null,
+      "moveSpeed": null,
+      "terrorRadius": null,
+      "powerCategory": null,
+      "terrorRadiusAudioUrl": null
+    }
+  ]
+}

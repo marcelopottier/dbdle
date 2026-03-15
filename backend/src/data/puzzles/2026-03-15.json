@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-15",
+  "groups": [
+    {
+      "theme": "Aura Reading Perks",
+      "color": "yellow",
+      "difficulty": 1,
+      "perks": [
+        "Aftercare",
+        "Better Together",
+        "Clairvoyance",
+        "Open-Handed"
+      ]
+    },
+    {
+      "theme": "Perks that Involve Healing Actions",
+      "color": "green",
+      "difficulty": 2,
+      "perks": [
+        "Bite the Bullet",
+        "Empathic Connection",
+        "Reactive Healing",
+        "We'll make it"
+      ]
+    },
+    {
+      "theme": "Perks that have a Speed Component",
+      "color": "blue",
+      "difficulty": 3,
+      "perks": [
+        "Background Player",
+        "Prove Thyself",
+        "Dramaturgy",
+        "Self-Care"
+      ]
+    },
+    {
+      "theme": "Perks associated with Hooks",
+      "color": "purple",
+      "difficulty": 4,
+      "perks": [
+        "Babysitter",
+        "Camaraderie",
+        "Deliverance",
+        "Fast Track"
+      ]
+    }
+  ]
+}
